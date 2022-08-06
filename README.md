@@ -28,4 +28,4 @@ Yes, programming seems to be very hard, but this is one of the perfect starting 
 # Download
 ATTENTION!!!: This is just the source-code and is adapted to MY pc. For personal use, you have to modify my version or create your own.
 
-# http://purpurax.de/vrist.html
+# http://purpurax.de/projects/vrist.html
